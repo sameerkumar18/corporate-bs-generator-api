@@ -1,0 +1,14 @@
+{
+  "name": "corporatebs_generator",
+  "version": "1.0.0",
+  "description": "Corporate BS Generator API written in Express and hosted on Heroku",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sameer Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
