@@ -9,6 +9,7 @@ Corporate bullshit is the icing on the cake, proof that not even the business wo
 So, I made this lovely little corporate bullshit generator to randomly pick out phrases, which can help your application get ahead in an industry where spin, buzzwords and vagueness reign supreme.
  
  #### ```GET https://corporatebs-generator.sameerkumar.website/```
+ CORS Enabled
  
  It will sound so good that your users will just nod enthusiastically even though they have no idea.
 
